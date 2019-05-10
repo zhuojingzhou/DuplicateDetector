@@ -24,7 +24,7 @@ Duplicate Detector
 	3. curl http://localhost:8080/dups or open the url in a browser  
 
 Things to improve:  
-Pass threshold, columns to check and file from the HTTP Request. Or from a property file  
-Complete the unit test  
-Load data into a database if the file is large   
-Make it a multithead program, concurrently computing the dups after the read action is done.   
+	Pass threshold, columns to check and file from the HTTP Request. Or from a property file  
+	Complete the unit test  
+	Load data into a database if the file is large   
+	Make it a multithead program, concurrently computing the dups after the read action is done.   
